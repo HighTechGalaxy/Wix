@@ -1,0 +1,19 @@
+Correct Format for Header Codes (Per Tool)
+Tool
+Code
+Google Search Console
+<meta name="google-site-verification" content="Code from Google Webmaster tools"/>
+For Bing Webmaster tools
+<meta name="msvalidate.01" content="Code from Bing Webmaster tools"/>
+Pinterest verification
+<meta name="p:domain_verify" content="Code from Pinterest"/>
+Yandex webmaster tools
+<meta name= "yandex-verification" content="Code from Yandex Webmaster tools"/>
+Norton safe web site verification
+<meta name="norton-safeweb-site-verification" content="Norton Code"/>
+Twitter cards
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@TwitterUserName">
+<meta name="twitter:title" content="home page meta title">
+<meta name="twitter:description" content="write your description here">
+<meta name="twitter:image" content="imageUrl.jpg">
